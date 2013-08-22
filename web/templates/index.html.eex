@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title><%= @title %></title>
+  <link rel="shortcut icon" href="/static/favicon.ico" />
+</head>
+<body>
+  <h3>Welcome to elixir-dallas.org!</h3>
+  <ol>
+  	<li>This is the "hello world" result of our first meeting.</li>
+  	<li>It makes sense to make the Elixir user group site in Elixir...</li>
+  	<li>We'll slowly add more features.</li>
+  	<li><a href="http://plancast.com/p/jafk">Here is the last Plancast event made.</a></li>
+    <!--<li>Change this template at <code>web/templates/index.html.eex</code></li>
+    <li>Add new routes at <code>web/routers/application_router.ex</code></li>
+    <li>Deploy to production with <code>MIX_ENV=prod mix do compile, server</code></li>-->
+  </ol>
+  <img alt="Under Construction (sorry, had to)" src="/static/under_construction.gif"/>
+  <br/>
+  <br/>
+  (Sorry, had to include the classic gif...)
+</body>
+</html>
