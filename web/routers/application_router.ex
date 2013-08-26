@@ -13,7 +13,13 @@ defmodule ApplicationRouter do
   # forward "/posts", to: PostsRouter
 
   get "/" do
-    conn = conn.assign(:title, "Welcome to Dynamo!")
-    render conn, "index.html"
+
+    conn = conn.assign(:title, "Elixir-Dallas!")
+    render conn, "home.html"
+ end
+  
+  get "/about.html.eex" do
+    conn = conn.assign(:title, "Elixir-Dallas!")  
+    render conn, "about.html"
   end
 end
