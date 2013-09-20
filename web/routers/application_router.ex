@@ -17,3 +17,9 @@ defmodule ApplicationRouter do
     render conn, "index.html"
   end
 end
+
+  get "/about.html.eex" do
+    conn = conn.assign(:title, "Elixir-Dallas!")  
+    render conn, "about.html"
+  end
+end
