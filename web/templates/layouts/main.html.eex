@@ -8,13 +8,13 @@
     <link rel="shortcut icon" href="http://i.imgur.com/X3lmcsu.png">
 
     <title>Elixir-Dallas</title>
-    <link rel="stylesheet" href= "/static/new.css">
+    <link rel="stylesheet" href= "/static/style.css">
 
     <!-- Bootstrap core CSS -->
    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
 
     <!-- Custom styles for this template -->
-    <link href="/static/jumbotron-narrow.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/static/css/jumbotron-narrow.css" media="all" rel="stylesheet" type="text/css">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
