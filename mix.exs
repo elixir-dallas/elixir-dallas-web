@@ -18,6 +18,6 @@ defmodule ElixirDallasWeb.Mixfile do
 
   defp deps do
     [ { :cowboy, github: "extend/cowboy" },
-      { :dynamo, "0.1.0-dev", ref: "b188b42c3928239a9c68c55b3d9ddeb323a17dec", github: "elixir-lang/dynamo" } ]
+      { :dynamo, "0.1.0-dev", github: "elixir-lang/dynamo" } ]
   end
 end
