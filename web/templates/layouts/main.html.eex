@@ -28,7 +28,7 @@
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li class="active"><a href="/">Home</a></li>
-          <li><a href="about.html.eex">About</a></li>
+          <li><a href="about">About</a></li>
         </ul>
         <img src="/static/elixir_drop.png" class="drop">
         <h3 class="text-muted">Elixir-Dallas.org </h3>
