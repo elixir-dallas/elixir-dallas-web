@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="http://i.imgur.com/X3lmcsu.png">
 
     <title>Elixir-Dallas</title>
-    <link rel="stylesheet" href= "/static/style.css">
+    <link rel="stylesheet" href= "/static/css/style.css">
 
     <!-- Bootstrap core CSS -->
    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
